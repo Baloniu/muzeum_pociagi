@@ -1,0 +1,4 @@
+Ustalenie uprawnieñ (praw dostêpu) poszczególnych grup u¿ytkowników (np. ustawa o ochronie danych osobowych
+Administrator posiada najwy¿szy poziom uprawnieñ - posiada dostêp do wszystkich danych.
+Pracownik posiada najni¿szy poziom uprawnieñ - posiada dostêp do eksponatów.
+Goœæ mo¿e przegl¹daæ tylko opublikowane dane
